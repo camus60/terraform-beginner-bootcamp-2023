@@ -16,6 +16,14 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
+### Working with Env Vars
+
+We can list out all Environment Variables(Env Vars) using the 'env' command
+
+We can filter specific env vars using grep e.g. 'env | grep AWS_'
+
+In the terminal we unset using unset e.g 'unset HELLO'
+
 ### ClickOps
 
 ### Learn markdown
