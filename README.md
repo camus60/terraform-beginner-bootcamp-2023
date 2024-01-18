@@ -2,7 +2,7 @@
 
 ### week - 0
 
-## Semantic Versioning
+## Semantic Versioning :mage: 
 
 This project is going to utilise semantic versioning for its tagging.
 
